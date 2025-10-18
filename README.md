@@ -12,11 +12,12 @@ Mi pasión es estudiar sobre métodos de **Deep Learning** y **Computer Vision**
 ---
 
 ### Mi Stack Tecnológico
-|------|--------------|
 | Área | Tecnologías |
-| **Lenguaje Principal** | `C++` |
-| **Computación matemática | `SageMath, Maxima, LaTeX`
-| **Herramientas** | `Git`, `Docker`|
+|------|--------------|
+| **Lenguaje principal** | `C++` |
+| **Computación matemática** | `SageMath`, `Maxima`, `LaTeX` |
+| **Herramientas** | `Git`, `Docker`, `VS Code`, `Visual Studio 2022` |
+| **Entornos y sistemas** | `Linux`, `Windows`|
 
 ## Intereses de investigación
 - Modelos generativos y razonamiento simbólico en IA  
