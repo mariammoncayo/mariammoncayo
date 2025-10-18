@@ -12,6 +12,7 @@ Mi pasión es estudiar sobre métodos de **Deep Learning** y **Computer Vision**
 ---
 
 ### Mi Stack Tecnológico
+|------|--------------|
 | Área | Tecnologías |
 | **Lenguaje Principal** | `C++` |
 | **Computación matemática | `SageMath, Maxima, LaTeX`
