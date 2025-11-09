@@ -15,6 +15,7 @@ Mi pasión es estudiar sobre métodos de **Deep Learning** y **Computer Vision**
 | Área | Tecnologías |
 |------|--------------|
 | **Lenguaje principal** | `C++` |
+| **Lenguaje secundario** | `Python` |
 | **Computación matemática** | `SageMath`, `Maxima`, `LaTeX` |
 | **Herramientas** | `Git`, `Docker`, `VS Code`, `Visual Studio 2022` |
 | **Entornos y sistemas** | `Linux`, `Windows`|
